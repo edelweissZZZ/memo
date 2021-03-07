@@ -1,0 +1,11 @@
+form {
+	border: 1px solid black;
+	margin: 1px
+}
+
+p {
+	background-color: #88f;
+	color: white;
+	text-align: center;
+	margin: 0;
+}
